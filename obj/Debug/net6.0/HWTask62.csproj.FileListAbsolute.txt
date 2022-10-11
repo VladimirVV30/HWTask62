@@ -1,0 +1,15 @@
+C:\GeekBrains\Seminar8\HWTask62\bin\Debug\net6.0\HWTask62.exe
+C:\GeekBrains\Seminar8\HWTask62\bin\Debug\net6.0\HWTask62.deps.json
+C:\GeekBrains\Seminar8\HWTask62\bin\Debug\net6.0\HWTask62.runtimeconfig.json
+C:\GeekBrains\Seminar8\HWTask62\bin\Debug\net6.0\HWTask62.dll
+C:\GeekBrains\Seminar8\HWTask62\bin\Debug\net6.0\HWTask62.pdb
+C:\GeekBrains\Seminar8\HWTask62\obj\Debug\net6.0\HWTask62.csproj.AssemblyReference.cache
+C:\GeekBrains\Seminar8\HWTask62\obj\Debug\net6.0\HWTask62.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Seminar8\HWTask62\obj\Debug\net6.0\HWTask62.AssemblyInfoInputs.cache
+C:\GeekBrains\Seminar8\HWTask62\obj\Debug\net6.0\HWTask62.AssemblyInfo.cs
+C:\GeekBrains\Seminar8\HWTask62\obj\Debug\net6.0\HWTask62.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Seminar8\HWTask62\obj\Debug\net6.0\HWTask62.dll
+C:\GeekBrains\Seminar8\HWTask62\obj\Debug\net6.0\refint\HWTask62.dll
+C:\GeekBrains\Seminar8\HWTask62\obj\Debug\net6.0\HWTask62.pdb
+C:\GeekBrains\Seminar8\HWTask62\obj\Debug\net6.0\HWTask62.genruntimeconfig.cache
+C:\GeekBrains\Seminar8\HWTask62\obj\Debug\net6.0\ref\HWTask62.dll
